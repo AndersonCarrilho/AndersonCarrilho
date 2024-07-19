@@ -6,5 +6,4 @@ Aqui estão meus primeiros projetos de criadores de Mnemonics de 12, 18, e 24 fr
 O uso destas ferramentas são de responsablidade de cada usuario, não empurre a culpa do que fizer para o desenvolvedor, maiores informações ou melhorias pode enviar e-mail, oe me envoque aqui que responderei com prazer.
 
 # Contatos
-WhatsApp +556281974080  |  Telegram +5511986598245
-Email.: AndersonSilvaCarrilho@gmail.Com
+WhatsApp +556281974080  |  Telegram +5511986598245  |  Email.: AndersonSilvaCarrilho@gmail.Com
